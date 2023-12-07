@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2kom90UA/+5lp4/SykLUw3Ta5/0bwosoUiInKgO+lRZKhv+eLGYKx94fx8nomRoTTAEHGUDnx/HIxJ3ouGWT2A==",
+  "dgSpecHash": "jR7HjgbGZ3FQkqCcNdknImqaWGIbjQcvuXE9p9wC4BNJutFmyEJZyudevZYiGCS2H1+hjpQvS2uTURK6PDpcEg==",
   "success": true,
-  "projectFilePath": "/Users/gjayan/Projects/workout-helper-2/workout-helper-2.csproj",
+  "projectFilePath": "/Users/gjayan/Projects/workout-helper-2/workout-helper-ef/workout-helper-2.csproj",
   "expectedPackageFiles": [
     "/Users/gjayan/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/gjayan/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

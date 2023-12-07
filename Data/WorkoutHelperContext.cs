@@ -12,9 +12,9 @@ public class WorkoutHelperContext : DbContext
 
 	public DbSet<Workout> Workouts { get; set; } = null!;
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    public WorkoutHelperContext(DbContextOptions<WorkoutHelperContext> options)
+        : base(options)
     {
-        optionsBuilder.UseSqlServer("AZURE_SQL_CONNECTIONSTRING");
     }
 }
 

@@ -2232,11 +2232,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gjayan/Projects/workout-helper-2/workout-helper-2.csproj",
+      "projectUniqueName": "/Users/gjayan/Projects/workout-helper-2/workout-helper-ef/workout-helper-2.csproj",
       "projectName": "workout-helper-2",
-      "projectPath": "/Users/gjayan/Projects/workout-helper-2/workout-helper-2.csproj",
+      "projectPath": "/Users/gjayan/Projects/workout-helper-2/workout-helper-ef/workout-helper-2.csproj",
       "packagesPath": "/Users/gjayan/.nuget/packages/",
-      "outputPath": "/Users/gjayan/Projects/workout-helper-2/obj/",
+      "outputPath": "/Users/gjayan/Projects/workout-helper-2/workout-helper-ef/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gjayan/.nuget/NuGet/NuGet.Config"

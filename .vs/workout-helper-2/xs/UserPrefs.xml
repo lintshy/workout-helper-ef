@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{1D832E8E-4E71-4BDA-8343-3E6FD4618478}|Default">
+  <MonoDevelop.Ide.ItemProperties.workout-helper-2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="32" Column="1" />
+      <File FileName="README.md" Line="17" Column="1" />
+      <File FileName="appsettings.Development.json" Line="9" Column="6" />
+      <File FileName="Data/WorkoutHelperContext.cs" Line="17" Column="6" />
+      <File FileName="Models/User.cs" Line="19" Column="1" />
+      <File FileName="Controllers/UserController.cs" Line="12" Column="32" />
+      <File FileName="DTO/UserDTO.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="workout-helper-2" expanded="True">
+            <Node name="workout-helper-2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
