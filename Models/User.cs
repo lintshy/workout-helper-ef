@@ -6,8 +6,9 @@ namespace workout_helper_2.Models
 {
 	public class User
 	{
-	
-		public int UserId { get; set; }
+
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int UserId { get; set; }
 
         public string name { get; set; } = null!;
 

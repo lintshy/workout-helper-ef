@@ -134,3 +134,4 @@
 /Users/gjayan/Projects/workout-helper-2/workout-helper-ef/obj/Debug/net6.0/workout-helper-2.csproj.CopyComplete
 /Users/gjayan/Projects/workout-helper-2/workout-helper-ef/obj/Debug/net6.0/workout-helper-2.genruntimeconfig.cache
 /Users/gjayan/Projects/workout-helper-2/workout-helper-ef/obj/Debug/net6.0/ref/workout-helper-2.dll
+/Users/gjayan/Projects/workout-helper-2/workout-helper-ef/bin/Debug/net6.0/Newtonsoft.Json.dll
